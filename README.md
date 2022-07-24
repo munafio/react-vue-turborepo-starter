@@ -25,8 +25,9 @@ This turborepo has some additional tools already setup for you:
 
 - [TypeScript](https://www.typescriptlang.org/) for static type checking
 - [TailwindCSS](https://www.tailwindcss.com/) a utility-first CSS framework.
-- [ESLint](https://eslint.org/) for code linting
-- [Prettier](https://prettier.io) for code formatting
+- [ESLint](https://eslint.org/) for code linting.
+- [Prettier](https://prettier.io) for code formatting.
+- [Husky](https://www.npmjs.com/package/husky) Modern native Git hooks made easy.
 
 ## Getting Started
 
