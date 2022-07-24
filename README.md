@@ -1,4 +1,4 @@
-# Turborepo starter with React, Vue and tailwindCSS
+# Turborepo starter with React, Vue and tailwindCSS (All using TypeScript)
 
 This is a [Turborepo](https://turborepo.org/) starter with two different apps/frameworks using (`React/Next.js`, `Vue/Nuxt.js`) with TailwindCSS installed and a shared `ui` package for each framework.
 
@@ -9,13 +9,13 @@ This turborepo uses [npm](https://www.npmjs.com/) as a package manager. It inclu
 ### Apps and Packages
 
 - `apps`
-    - `next-app`: a [Next.js](https://nextjs.org) app
-    - `nuxt-app`: a [Nuxt.js](https://nuxtjs.org) app
+  - `next-app`: a [Next.js](https://nextjs.org) app
+  - `nuxt-app`: a [Nuxt.js](https://nuxtjs.org) app
 - `packages`
-    - `react-ui`: a stub React component library shared across all React applications.
-    - `vue-ui`: a stub Vue component library shared across all Vue applications.
-    - `eslint-config-custom`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
-    - `tsconfig`: `tsconfig.json`s used throughout the monorepo
+  - `react-ui`: a stub React component library shared across all React applications.
+  - `vue-ui`: a stub Vue component library shared across all Vue applications.
+  - `eslint-config-custom`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
+  - `tsconfig`: `tsconfig.json`s used throughout the monorepo
 
 Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
 
@@ -31,11 +31,13 @@ This turborepo has some additional tools already setup for you:
 ## Getting Started
 
 First clone the repo, then install the dependencies
+
 ```
 npm install
 ```
 
 after that, start the development server (apps running in parallel)
+
 ```
 npm run dev
 ```
