@@ -1,8 +1,6 @@
 <template>
   <div class="m-10 text-center">
-    <h1 class="text-4xl">
-      Nuxt.js/<span className="text-green-600">Vue</span> App
-    </h1>
+    <h1 class="text-4xl">Nuxt.js App</h1>
     <ui-button />
   </div>
 </template>
