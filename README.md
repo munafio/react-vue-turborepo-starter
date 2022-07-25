@@ -44,3 +44,6 @@ npm run dev
 ```
 
 That's it, enjoy!
+
+## Author
+* [Munaf A. Mahdi](https://twitter.com/munafiofficial)
