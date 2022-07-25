@@ -1,4 +1,4 @@
-# Turborepo starter with React, Vue and tailwindCSS (All using TypeScript)
+# Turborepo starter with React (Next.js), Vue (Nuxt.js), tailwindCSS, and TypeScript
 
 This is a [Turborepo](https://turborepo.org/) starter with two different apps/frameworks using (`React/Next.js`, `Vue/Nuxt.js`) with TailwindCSS installed and a shared `ui` package for each framework.
 
