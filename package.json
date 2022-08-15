@@ -1,5 +1,5 @@
 {
-  "name": "turbo-demo",
+  "name": "react-vue-turborepo-starter",
   "version": "0.0.0",
   "private": true,
   "workspaces": [

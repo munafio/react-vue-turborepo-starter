@@ -1,3 +1,4 @@
+<div style="text-align: center"><img src="images/cover.jpeg" /></div>
 # Turborepo starter with React (Next.js), Vue (Nuxt.js), tailwindCSS, and TypeScript
 
 This is a [Turborepo](https://turborepo.org/) starter with two different apps/frameworks using (`React/Next.js`, `Vue/Nuxt.js`) with TailwindCSS installed and a shared `ui` package for each framework.
@@ -18,6 +19,10 @@ This turborepo uses [npm](https://www.npmjs.com/) as a package manager. It inclu
   - `tsconfig`: `tsconfig.json`s used throughout the monorepo
 
 Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
+
+<div style="text-align: center">
+<img src="images/demo.gif" />
+</div>
 
 ### Utilities
 
@@ -46,4 +51,5 @@ npm run dev
 That's it, enjoy!
 
 ## Author
-* [Munaf A. Mahdi](https://twitter.com/munafiofficial)
+
+- [Munaf A. Mahdi](https://twitter.com/munafiofficial)
