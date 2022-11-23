@@ -4,7 +4,7 @@
 
 This is a [Turborepo](https://turborepo.org/) starter with two different apps/frameworks using (`React/Next.js`, `Vue/Nuxt.js`) with TailwindCSS installed and a shared `ui` package for each framework.
 
-**Want to know/understand everything about this monorepo?**[Read this artical](https://blog.munafio.com/building-a-monorepo-using-turborepo-with-react-js-and-vue-js-b6b25d7e41f7)
+**Want to know/understand everything about this monorepo?** [Read this artical](https://blog.munafio.com/building-a-monorepo-using-turborepo-with-react-js-and-vue-js-b6b25d7e41f7)
 
 ## What's inside?
 
